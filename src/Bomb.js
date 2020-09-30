@@ -15,10 +15,7 @@ constructor(props) {
         );
     }
 
-  constructor()
-  render () {
-    
-  }
+  
   
 
 }
